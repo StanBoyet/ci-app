@@ -63,3 +63,11 @@ To benefit from our test suite, let's condition our deployments from our test su
 ![](documentation/enable-ci.png)
 
 Now, everytime we push a commit, we will run our test suite.
+
+![](documentation/run-tests.gif)
+![](documentation/fixed-test.png)
+
+
+If a test fails in a PR, we will get notified and the PR can be prevented from being merged.
+
+![](documentation/failed-test.png)
