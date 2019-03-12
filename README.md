@@ -67,3 +67,5 @@ Now, everytime we push a commit, we will run our test suite.
 If a test fails in a PR, we will get notified and the PR can be prevented from being merged.
 
 ![](documentation/failed-test.png)
+
+![](documentation/run-tests.gif)
