@@ -1,7 +1,7 @@
 class Segment < ApplicationRecord
 
   def round_trip
-    value * 3
+    value * 2
   end
 
 end
